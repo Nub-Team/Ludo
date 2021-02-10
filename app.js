@@ -1,8 +1,3 @@
-
-
-
-
-
 var scores,roundScore,activePlayer,gamePlaying,lastDice;
 
 init();
